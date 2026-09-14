@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /aura-moments/
+Sitemap: https://jorrian.github.io/aura-moments/sitemap.xml
